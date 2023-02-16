@@ -1,0 +1,43 @@
+{
+  "clientRef": "er87t6349t",
+  "dataSecurity": "a743bf379c61a37645d560f5420b0ee69e2c95aacd6063102e148b48b043251c",
+  "data": [
+    {
+      "userId": "01627121875",
+      "amount": "5000",
+      "comments": "first payment",
+      "currency": "BDT",
+      "bankData": [
+        {
+          "bankAccNo": "12345678",
+          "accountHoldersName": "DEMO",
+          "bankName": "MUTUAL TRUST BANK LTD.",
+          "bankBranch": "MIRPUR",
+          "bankRouting": "145262987"
+        },
+        {
+          "bankAccNo": "123456",
+          "accountHoldersName": "DEMO",
+          "bankName": "AGRANI BANK LTD.",
+          "bankBranch": "BHOLA",
+          "bankRouting": "010090105"
+        }
+      ]
+    },
+    {
+      "userId": "01627121876",
+      "amount": "5000",
+      "comments": "second payment",
+      "currency": "BDT",
+      "bankData": [
+        {
+          "bankAccNo": "1234",
+          "accountHoldersName": "DEMO2",
+          "bankName": "AB BANK LTD.",
+          "bankBranch": "DHANMONDI",
+          "bankRouting": "020261182"
+        }
+      ]
+    }
+  ]
+}
