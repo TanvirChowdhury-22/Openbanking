@@ -9,7 +9,7 @@ Before running the application, ensure you have the following installed:
 Setup and Execution
 
 Follow these steps to set up and run the application:
-	1.	Start the Payment Test Server:
+	1. Start the Payment Test Server:
 	•	Begin by running the payment-test-server. This server simulates the payment processing environment.
 	2.	Run Digiton Open Banking Application:
 	•	Execute the digiton-openbanking application. This can typically be done using the provided shell script:
